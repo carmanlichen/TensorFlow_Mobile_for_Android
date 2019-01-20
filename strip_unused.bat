@@ -1,0 +1,3 @@
+python D:\carmanhui.github.io\Mobile_Target_Recognition\tensorflow-master\tensorflow\python\tools\strip_unused.py 
+--input_graph C:\Users\Liu\Desktop\TensorFlow_Mobile_for_Android\inception_model\retrain\myoutput_graph.pb ¨C-output_graph C:\Users\Liu\Desktop\TensorFlow_Mobile_for_Android\inception_model\retrain\my_tfm_output_graph.pb 
+--input_node_names "Placeholder" --output_node_names "final_result" --input_binary true
